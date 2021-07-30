@@ -1,0 +1,162 @@
+
+.blue{
+	
+background: #2874F0;
+}
+
+.blue img{
+	float: left;
+	width: 6%;
+	margin-top:12px;
+}
+
+.cart h4{
+	  color: white;
+float: right;
+font-size: 16px;
+margin-top:16px;
+}
+.more h4{
+	  font-family: system-ui;
+	  color: white;
+	  font-size: 16px;
+	  margin-top:16px;
+	}
+.more span{
+    font-size: 10px;
+    margin: 7px;
+}
+
+
+.banner{
+	width:100%;
+	float:left;
+	margin-top: 8px;
+}
+.banner img{
+	width:100%;
+}
+.color{
+	border-bottom: 3px solid #D6D6D6;
+}
+
+
+.box1{
+	background:#fff;
+	    padding-left: 22px;
+    padding-right: 42px;
+	float: left;
+}
+.box1 img{
+   width:71px;
+   margin-top: 10px;
+}
+.box1 p{
+	font-size:14px;
+	font-family:sans-serif;
+	margin-top: 5px;
+	text-align: center;
+}
+.box1 p:hover{
+	color:#2874F0;
+}
+	
+.topnav .search-container {
+  float: left;
+}
+
+.topnav input[type=text] {
+  padding: 3px;
+  margin-top:9px;
+     width: 320px;
+         height: 36px;
+}
+.topnav .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top:10px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+      height: 34px;
+}	
+.btn {
+	 border-radius: 0px!important;
+     font-family: system-ui;
+         font-size: 17px!important;
+          padding: 0px!important;
+       width: 120px;
+       margin-top:13px;
+}
+.box2{
+	margin-top: 10px;
+}
+.box2 img:hover{
+transform: scale(1.1)
+
+}
+.box3{
+	margin-top: 10px;
+}
+.top2 {
+ float: left;
+}
+.top2 p{
+	text-align: center;
+}
+.top2 img{
+	width: 260px;
+    padding: 20px;
+    margin-top: 45px;
+
+}
+.top3 {
+ float: left;
+}
+.top3 p{
+	text-align: center;
+}
+.top3 img{
+	width: 250px;
+    padding:20px;
+    margin-top: 45px;
+	
+}
+.top4 {
+ float: left;
+}
+.top4 p{
+	text-align: center;
+}
+.top4 img{
+	width: 228px;
+    padding: 14px;
+    margin-top: 45px;
+}
+.top1{
+	    float: left;
+
+    width: 22%;
+    text-align: center;
+    padding: 25px;
+}
+.one{
+	border: 2px solid}
+.one img{
+	width: 175px;
+
+}
+.top1 button {
+background: color:#2874F0 !important;
+color: green;
+}
+.box4{
+	
+
+	margin-top: 10px;
+}
+.box4 img{
+	width:100%;
+}
